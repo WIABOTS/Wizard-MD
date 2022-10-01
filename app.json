@@ -1,8 +1,8 @@
 {
-  "name": "Wizard MD",
+  "name": "WIABOTS",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Ajmal-Achu/Wizard-MD",
-  "logo": "https://telegra.ph/file/e0bc28185977299bf5d2c.jpg",
+  "repository": "https://github.com/WIABOTS/Wizard-MD",
+  "logo": "https://i.imgur.com/7LP5aJn.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
   "addons": [{
